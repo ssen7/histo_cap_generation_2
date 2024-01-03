@@ -2,7 +2,7 @@ Paper Link: https://arxiv.org/abs/2311.06176
 
 Accepted as Extended Abstract at ML4H 2023: https://ml4h.cc/2023/.
 
-We build upon this work by replacing LSTM based decoders with BioClinicalBERT based decoder [HistoCapBERT](https://github.com/ssen7/histo_cap_transformers)
+We build upon this work by replacing LSTM based decoders with BioClinicalBERT based decoder [HistoCapBERT](https://github.com/ssen7/histo_cap_transformers).
 
 ## Method Overview
 
